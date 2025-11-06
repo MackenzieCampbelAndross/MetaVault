@@ -1,0 +1,10 @@
+{
+  "interface": "IKYCVerifier",
+  "methods": [
+    "verifyClaim",
+    "revokeTier",
+    "getSubjectStatus"
+  ],
+  "last_test_run": "2025-11-06 20:17:51",
+  "suite_build": 10
+}

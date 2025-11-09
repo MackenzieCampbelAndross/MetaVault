@@ -9,3 +9,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-05 15:21:44] perf(verifier): standardize KYC submission API error responses
 - [2025-11-05 21:35:58] chore(audit): implement access control modifier for authorized identity validators
 - [2025-11-07 11:08:40] perf(verifier): standardize KYC submission API error responses
+- [2025-11-09 20:33:36] chore(compliance): implement access control modifier for authorized identity validators

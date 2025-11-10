@@ -18,3 +18,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-10 14:51:31] chore(audit): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-11-10 19:15:35] chore(deploy): emit structured IdentityVerified event with indexed subject hash
 - [2025-11-10 20:04:04] chore(identity): add formal specification for biometric hash commitments
+- [2025-11-10 22:17:34] fix(audit): add formal specification for biometric hash commitments

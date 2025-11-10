@@ -7,3 +7,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-06 17:48:16**: `docs(verifier): add reentrancy protection to soulbound credential claim functions`
   *Updated specifications and documentation details.*
+- **2025-11-10 09:42:35**: `docs(verifier): add zero-knowledge proof verification logic for compliance tier`
+  *Updated specifications and documentation details.*

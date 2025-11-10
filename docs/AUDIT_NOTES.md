@@ -9,3 +9,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-10 09:42:35**: `docs(verifier): add zero-knowledge proof verification logic for compliance tier`
   *Updated specifications and documentation details.*
+- **2025-11-10 17:13:48**: `docs(kyc): optimize gas consumption in batch KYC verification registry`
+  *Updated specifications and documentation details.*

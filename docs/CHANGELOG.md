@@ -12,3 +12,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-09 20:33:36] chore(compliance): implement access control modifier for authorized identity validators
 - [2025-11-10 09:47:35] fix(verifier): update hardhat deployment scripts for testnet fork compatibility
 - [2025-11-10 10:25:19] perf(audit): enforce strict EIP-712 typed signature verification
+- [2025-11-10 10:43:13] perf(audit): add reentrancy protection to soulbound credential claim functions

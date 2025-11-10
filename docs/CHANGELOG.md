@@ -13,3 +13,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-10 09:47:35] fix(verifier): update hardhat deployment scripts for testnet fork compatibility
 - [2025-11-10 10:25:19] perf(audit): enforce strict EIP-712 typed signature verification
 - [2025-11-10 10:43:13] perf(audit): add reentrancy protection to soulbound credential claim functions
+- [2025-11-10 11:17:11] perf(identity): pack storage slots in KYC registry to reduce SSTORE cost

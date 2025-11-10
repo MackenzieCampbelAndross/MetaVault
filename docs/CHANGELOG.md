@@ -15,3 +15,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-10 10:43:13] perf(audit): add reentrancy protection to soulbound credential claim functions
 - [2025-11-10 11:17:11] perf(identity): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-11-10 12:51:33] chore(sbt): update hardhat deployment scripts for testnet fork compatibility
+- [2025-11-10 14:51:31] chore(audit): pack storage slots in KYC registry to reduce SSTORE cost

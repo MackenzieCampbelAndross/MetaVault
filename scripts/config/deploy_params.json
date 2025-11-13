@@ -3,6 +3,6 @@
   "verifierTier": 2,
   "gasLimit": 5000000,
   "maxBatchSize": 50,
-  "last_iteration": "v32",
-  "updated_at": "2025-11-11 10:54:09"
+  "last_iteration": "v34",
+  "updated_at": "2025-11-13 10:43:27"
 }

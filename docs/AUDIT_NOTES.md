@@ -11,3 +11,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-10 17:13:48**: `docs(kyc): optimize gas consumption in batch KYC verification registry`
   *Updated specifications and documentation details.*
+- **2025-11-17 21:44:43**: `docs(crypto): add sanction list screening validation hook`
+  *Updated specifications and documentation details.*

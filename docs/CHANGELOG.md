@@ -28,3 +28,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-17 15:30:47] perf(contracts): update security audit findings and mitigation log
 - **2025-11-17 16:11:29**: `docs(gas): add sanction list screening validation hook`
   *Updated specifications and documentation details.*
+- [2025-11-17 16:12:21] perf(gas): enforce strict EIP-712 typed signature verification

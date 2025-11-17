@@ -34,3 +34,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-17 17:45:08] fix(compliance): update hardhat deployment scripts for testnet fork compatibility
 - **2025-11-17 19:57:07**: `docs(gas): update security audit findings and mitigation log`
   *Updated specifications and documentation details.*
+- [2025-11-17 20:09:19] fix(deploy): implement revocable soulbound token status checks

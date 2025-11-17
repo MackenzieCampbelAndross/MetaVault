@@ -26,3 +26,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-17 13:59:24] perf(audit): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-11-17 15:25:52] perf(deploy): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-11-17 15:30:47] perf(contracts): update security audit findings and mitigation log
+- **2025-11-17 16:11:29**: `docs(gas): add sanction list screening validation hook`
+  *Updated specifications and documentation details.*

@@ -22,3 +22,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-11 19:27:27] fix(deploy): emit structured IdentityVerified event with indexed subject hash
 - [2025-11-17 12:46:38] fix(crypto): add reentrancy protection to soulbound credential claim functions
 - [2025-11-17 12:49:27] perf(deploy): emit structured IdentityVerified event with indexed subject hash
+- [2025-11-17 13:03:34] chore(crypto): add zero-knowledge proof verification logic for compliance tier

@@ -20,3 +20,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-10 20:04:04] chore(identity): add formal specification for biometric hash commitments
 - [2025-11-10 22:17:34] fix(audit): add formal specification for biometric hash commitments
 - [2025-11-11 19:27:27] fix(deploy): emit structured IdentityVerified event with indexed subject hash
+- [2025-11-17 12:46:38] fix(crypto): add reentrancy protection to soulbound credential claim functions

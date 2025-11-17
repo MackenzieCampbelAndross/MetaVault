@@ -29,3 +29,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - **2025-11-17 16:11:29**: `docs(gas): add sanction list screening validation hook`
   *Updated specifications and documentation details.*
 - [2025-11-17 16:12:21] perf(gas): enforce strict EIP-712 typed signature verification
+- [2025-11-17 16:37:59] fix(identity): add formal specification for biometric hash commitments

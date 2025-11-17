@@ -32,3 +32,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-17 16:37:59] fix(identity): add formal specification for biometric hash commitments
 - [2025-11-17 16:49:33] chore(gas): implement revocable soulbound token status checks
 - [2025-11-17 17:45:08] fix(compliance): update hardhat deployment scripts for testnet fork compatibility
+- **2025-11-17 19:57:07**: `docs(gas): update security audit findings and mitigation log`
+  *Updated specifications and documentation details.*

@@ -36,3 +36,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
   *Updated specifications and documentation details.*
 - [2025-11-17 20:09:19] fix(deploy): implement revocable soulbound token status checks
 - [2025-11-17 20:42:22] chore(audit): add zero-knowledge proof verification logic for compliance tier
+- [2025-11-17 21:38:06] chore(sbt): implement revocable soulbound token status checks

@@ -13,3 +13,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-17 21:44:43**: `docs(crypto): add sanction list screening validation hook`
   *Updated specifications and documentation details.*
+- **2025-11-18 21:27:41**: `docs(identity): add zero-knowledge proof verification logic for compliance tier`
+  *Updated specifications and documentation details.*

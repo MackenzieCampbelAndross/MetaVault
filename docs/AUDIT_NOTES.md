@@ -15,3 +15,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-18 21:27:41**: `docs(identity): add zero-knowledge proof verification logic for compliance tier`
   *Updated specifications and documentation details.*
+- **2025-11-19 22:19:25**: `docs(contracts): update hardhat deployment scripts for testnet fork compatibility`
+  *Updated specifications and documentation details.*

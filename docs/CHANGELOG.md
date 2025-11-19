@@ -39,3 +39,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-17 21:38:06] chore(sbt): implement revocable soulbound token status checks
 - [2025-11-18 20:59:02] perf(audit): update security audit findings and mitigation log
 - [2025-11-19 09:51:48] perf(compliance): update hardhat deployment scripts for testnet fork compatibility
+- [2025-11-19 10:13:44] fix(identity): add reentrancy protection to soulbound credential claim functions

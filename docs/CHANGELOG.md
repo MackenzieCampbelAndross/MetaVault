@@ -45,3 +45,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-19 12:16:19] perf(zkp): implement revocable soulbound token status checks
 - [2025-11-19 12:47:43] fix(gas): refactor contract upgradeability proxy initialization logic
 - [2025-11-19 13:18:05] fix(identity): enforce strict EIP-712 typed signature verification
+- [2025-11-19 13:32:41] perf(audit): enforce strict EIP-712 typed signature verification

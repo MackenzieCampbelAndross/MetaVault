@@ -41,3 +41,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-19 09:51:48] perf(compliance): update hardhat deployment scripts for testnet fork compatibility
 - [2025-11-19 10:13:44] fix(identity): add reentrancy protection to soulbound credential claim functions
 - [2025-11-19 12:01:50] fix(crypto): add zero-knowledge proof verification logic for compliance tier
+- [2025-11-19 12:02:45] fix(verifier): configure testnet contract verification via explorer API

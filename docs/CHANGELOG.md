@@ -50,3 +50,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-19 17:27:21] chore(sbt): enforce strict EIP-712 typed signature verification
 - [2025-11-19 17:58:12] fix(contracts): add zero-knowledge proof verification logic for compliance tier
 - [2025-11-19 20:17:42] fix(gas): optimize cryptographic pairing checks in zk-SNARK verifier
+- [2025-11-19 21:49:15] fix(identity): optimize cryptographic pairing checks in zk-SNARK verifier

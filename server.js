@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import { ethers } from "ethers";
-import ABI from "./MetaVaultKYC_ABI.json" with { type: "json" };
+import ABI from "./MetaVaultKYC_abi.json" with { type: "json" };
 
 dotenv.config();
 

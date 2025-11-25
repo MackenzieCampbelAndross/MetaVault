@@ -52,3 +52,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-19 20:17:42] fix(gas): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-11-19 21:49:15] fix(identity): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-11-21 10:07:19] chore(deploy): standardize KYC submission API error responses
+- [2025-11-25 10:54:52] chore(identity): implement revocable soulbound token status checks

@@ -58,3 +58,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-27 12:40:34] chore(compliance): refactor contract upgradeability proxy initialization logic
 - [2025-11-27 12:43:03] fix(contracts): update security audit findings and mitigation log
 - [2025-11-27 13:17:02] chore(deploy): update security audit findings and mitigation log
+- [2025-11-27 13:18:00] chore(sbt): emit structured IdentityVerified event with indexed subject hash

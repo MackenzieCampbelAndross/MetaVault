@@ -60,3 +60,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-27 13:17:02] chore(deploy): update security audit findings and mitigation log
 - [2025-11-27 13:18:00] chore(sbt): emit structured IdentityVerified event with indexed subject hash
 - [2025-11-27 17:58:28] perf(zkp): add formal specification for biometric hash commitments
+- [2025-11-27 19:47:09] chore(crypto): optimize cryptographic pairing checks in zk-SNARK verifier

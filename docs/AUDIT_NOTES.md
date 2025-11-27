@@ -21,3 +21,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-27 16:37:27**: `docs(compliance): add formal specification for biometric hash commitments`
   *Updated specifications and documentation details.*
+- **2025-11-27 18:03:13**: `docs(crypto): pack storage slots in KYC registry to reduce SSTORE cost`
+  *Updated specifications and documentation details.*

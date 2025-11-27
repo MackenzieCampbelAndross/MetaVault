@@ -19,3 +19,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-27 10:45:45**: `docs(crypto): add sanction list screening validation hook`
   *Updated specifications and documentation details.*
+- **2025-11-27 16:37:27**: `docs(compliance): add formal specification for biometric hash commitments`
+  *Updated specifications and documentation details.*

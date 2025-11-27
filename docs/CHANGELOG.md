@@ -64,3 +64,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - **2025-11-27 20:25:51**: `docs(deploy): enforce strict EIP-712 typed signature verification`
   *Updated specifications and documentation details.*
 - [2025-11-27 21:00:10] chore(audit): add zero-knowledge proof verification logic for compliance tier
+- [2025-11-27 22:24:42] fix(verifier): optimize cryptographic pairing checks in zk-SNARK verifier

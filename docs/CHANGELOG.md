@@ -61,3 +61,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-27 13:18:00] chore(sbt): emit structured IdentityVerified event with indexed subject hash
 - [2025-11-27 17:58:28] perf(zkp): add formal specification for biometric hash commitments
 - [2025-11-27 19:47:09] chore(crypto): optimize cryptographic pairing checks in zk-SNARK verifier
+- **2025-11-27 20:25:51**: `docs(deploy): enforce strict EIP-712 typed signature verification`
+  *Updated specifications and documentation details.*

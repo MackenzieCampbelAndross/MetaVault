@@ -17,3 +17,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-19 22:19:25**: `docs(contracts): update hardhat deployment scripts for testnet fork compatibility`
   *Updated specifications and documentation details.*
+- **2025-11-27 10:45:45**: `docs(crypto): add sanction list screening validation hook`
+  *Updated specifications and documentation details.*

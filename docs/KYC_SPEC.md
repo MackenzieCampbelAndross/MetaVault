@@ -9,3 +9,5 @@ Specifications for non-transferable identity credentials and biometric hashes.
   *Updated specifications and documentation details.*
 - **2025-11-19 17:22:43**: `docs(compliance): add formal specification for biometric hash commitments`
   *Updated specifications and documentation details.*
+- **2025-11-27 12:44:33**: `docs(verifier): update security audit findings and mitigation log`
+  *Updated specifications and documentation details.*

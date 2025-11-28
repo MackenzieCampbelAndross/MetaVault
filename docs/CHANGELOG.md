@@ -67,3 +67,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-27 22:24:42] fix(verifier): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-11-27 22:53:24] chore(identity): add formal specification for biometric hash commitments
 - [2025-11-28 09:32:50] fix(contracts): add reentrancy protection to soulbound credential claim functions
+- [2025-11-28 10:14:19] perf(verifier): implement access control modifier for authorized identity validators

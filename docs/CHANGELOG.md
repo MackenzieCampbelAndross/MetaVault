@@ -70,3 +70,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-28 10:14:19] perf(verifier): implement access control modifier for authorized identity validators
 - [2025-11-28 11:21:36] chore(sbt): implement revocable soulbound token status checks
 - [2025-11-28 12:05:11] fix(audit): standardize KYC submission API error responses
+- [2025-11-28 12:59:44] perf(kyc): enforce strict EIP-712 typed signature verification

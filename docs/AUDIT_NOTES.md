@@ -23,3 +23,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-27 18:03:13**: `docs(crypto): pack storage slots in KYC registry to reduce SSTORE cost`
   *Updated specifications and documentation details.*
+- **2025-11-28 17:33:20**: `docs(sbt): enforce strict EIP-712 typed signature verification`
+  *Updated specifications and documentation details.*

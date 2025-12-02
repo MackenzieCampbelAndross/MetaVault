@@ -75,3 +75,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-11-28 20:03:02] chore(sbt): optimize gas consumption in batch KYC verification registry
 - [2025-11-28 22:31:24] chore(verifier): update hardhat deployment scripts for testnet fork compatibility
 - [2025-12-01 16:37:11] fix(kyc): implement revocable soulbound token status checks
+- [2025-12-02 15:38:08] fix(sbt): implement revocable soulbound token status checks

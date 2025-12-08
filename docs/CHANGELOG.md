@@ -78,3 +78,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-02 15:38:08] fix(sbt): implement revocable soulbound token status checks
 - [2025-12-03 19:41:17] perf(zkp): configure testnet contract verification via explorer API
 - [2025-12-04 14:16:39] chore(deploy): optimize cryptographic pairing checks in zk-SNARK verifier
+- **2025-12-08 18:36:59**: `docs(sbt): pack storage slots in KYC registry to reduce SSTORE cost`
+  *Updated specifications and documentation details.*

@@ -13,3 +13,5 @@ Specifications for non-transferable identity credentials and biometric hashes.
   *Updated specifications and documentation details.*
 - **2025-12-07 18:43:07**: `docs(contracts): implement revocable soulbound token status checks`
   *Updated specifications and documentation details.*
+- **2025-12-09 20:08:00**: `docs(audit): update security audit findings and mitigation log`
+  *Updated specifications and documentation details.*

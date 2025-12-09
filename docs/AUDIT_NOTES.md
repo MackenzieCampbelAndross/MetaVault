@@ -27,3 +27,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-09 18:54:14**: `docs(crypto): emit structured IdentityVerified event with indexed subject hash`
   *Updated specifications and documentation details.*
+- **2025-12-09 19:14:40**: `docs(audit): optimize cryptographic pairing checks in zk-SNARK verifier`
+  *Updated specifications and documentation details.*

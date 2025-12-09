@@ -81,3 +81,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - **2025-12-08 18:36:59**: `docs(sbt): pack storage slots in KYC registry to reduce SSTORE cost`
   *Updated specifications and documentation details.*
 - [2025-12-09 09:47:03] chore(audit): add sanction list screening validation hook
+- [2025-12-09 10:39:36] fix(sbt): refactor contract upgradeability proxy initialization logic

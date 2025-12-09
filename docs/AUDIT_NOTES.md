@@ -25,3 +25,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-11-28 17:33:20**: `docs(sbt): enforce strict EIP-712 typed signature verification`
   *Updated specifications and documentation details.*
+- **2025-12-09 18:54:14**: `docs(crypto): emit structured IdentityVerified event with indexed subject hash`
+  *Updated specifications and documentation details.*

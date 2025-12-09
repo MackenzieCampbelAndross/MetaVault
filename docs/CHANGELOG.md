@@ -82,3 +82,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
   *Updated specifications and documentation details.*
 - [2025-12-09 09:47:03] chore(audit): add sanction list screening validation hook
 - [2025-12-09 10:39:36] fix(sbt): refactor contract upgradeability proxy initialization logic
+- [2025-12-09 12:06:15] perf(compliance): add formal specification for biometric hash commitments

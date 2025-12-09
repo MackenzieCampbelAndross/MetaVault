@@ -80,3 +80,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-04 14:16:39] chore(deploy): optimize cryptographic pairing checks in zk-SNARK verifier
 - **2025-12-08 18:36:59**: `docs(sbt): pack storage slots in KYC registry to reduce SSTORE cost`
   *Updated specifications and documentation details.*
+- [2025-12-09 09:47:03] chore(audit): add sanction list screening validation hook

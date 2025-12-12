@@ -98,3 +98,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-12 20:02:28] perf(zkp): emit structured IdentityVerified event with indexed subject hash
 - **2025-12-12 21:06:40**: `docs(sbt): update security audit findings and mitigation log`
   *Updated specifications and documentation details.*
+- [2025-12-12 21:56:58] perf(sbt): implement revocable soulbound token status checks

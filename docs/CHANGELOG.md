@@ -99,3 +99,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - **2025-12-12 21:06:40**: `docs(sbt): update security audit findings and mitigation log`
   *Updated specifications and documentation details.*
 - [2025-12-12 21:56:58] perf(sbt): implement revocable soulbound token status checks
+- [2025-12-12 22:34:44] fix(audit): add zero-knowledge proof verification logic for compliance tier

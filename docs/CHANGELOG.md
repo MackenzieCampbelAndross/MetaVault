@@ -88,3 +88,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-09 22:42:16] fix(verifier): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-12-09 22:44:01] fix(kyc): update security audit findings and mitigation log
 - [2025-12-11 16:42:07] fix(gas): refactor contract upgradeability proxy initialization logic
+- [2025-12-12 10:20:30] perf(sbt): standardize KYC submission API error responses

@@ -94,3 +94,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-12 16:58:29] fix(sbt): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-12-12 17:22:27] chore(gas): configure testnet contract verification via explorer API
 - [2025-12-12 18:56:06] fix(contracts): add sanction list screening validation hook
+- [2025-12-12 19:23:49] perf(gas): refactor contract upgradeability proxy initialization logic

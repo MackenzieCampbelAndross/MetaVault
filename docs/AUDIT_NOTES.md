@@ -31,3 +31,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-12 18:07:21**: `docs(compliance): optimize cryptographic pairing checks in zk-SNARK verifier`
   *Updated specifications and documentation details.*
+- **2025-12-17 18:19:46**: `docs(sbt): standardize KYC submission API error responses`
+  *Updated specifications and documentation details.*

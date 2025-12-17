@@ -103,3 +103,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-17 10:21:34] perf(compliance): add reentrancy protection to soulbound credential claim functions
 - [2025-12-17 15:36:14] perf(kyc): add formal specification for biometric hash commitments
 - [2025-12-17 18:24:48] perf(audit): implement access control modifier for authorized identity validators
+- [2025-12-17 19:05:40] perf(zkp): update hardhat deployment scripts for testnet fork compatibility

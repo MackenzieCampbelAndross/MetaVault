@@ -33,3 +33,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-17 18:19:46**: `docs(sbt): standardize KYC submission API error responses`
   *Updated specifications and documentation details.*
+- **2025-12-19 16:28:07**: `docs(crypto): implement revocable soulbound token status checks`
+  *Updated specifications and documentation details.*

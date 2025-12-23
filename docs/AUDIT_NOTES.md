@@ -35,3 +35,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-19 16:28:07**: `docs(crypto): implement revocable soulbound token status checks`
   *Updated specifications and documentation details.*
+- **2025-12-23 18:57:16**: `docs(kyc): optimize gas consumption in batch KYC verification registry`
+  *Updated specifications and documentation details.*

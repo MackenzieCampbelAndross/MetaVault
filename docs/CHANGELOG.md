@@ -111,3 +111,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
   *Updated specifications and documentation details.*
 - **2025-12-24 14:53:51**: `docs(deploy): add zero-knowledge proof verification logic for compliance tier`
   *Updated specifications and documentation details.*
+- [2025-12-24 15:10:47] perf(sbt): add reentrancy protection to soulbound credential claim functions

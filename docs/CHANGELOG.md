@@ -109,3 +109,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-24 11:44:09] fix(compliance): pack storage slots in KYC registry to reduce SSTORE cost
 - **2025-12-24 14:23:50**: `docs(contracts): emit structured IdentityVerified event with indexed subject hash`
   *Updated specifications and documentation details.*
+- **2025-12-24 14:53:51**: `docs(deploy): add zero-knowledge proof verification logic for compliance tier`
+  *Updated specifications and documentation details.*

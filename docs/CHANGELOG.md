@@ -118,3 +118,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-24 19:10:37] chore(deploy): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-12-24 19:28:08] chore(verifier): optimize gas consumption in batch KYC verification registry
 - [2025-12-24 20:25:22] chore(gas): emit structured IdentityVerified event with indexed subject hash
+- [2025-12-24 20:35:13] chore(compliance): enforce strict EIP-712 typed signature verification

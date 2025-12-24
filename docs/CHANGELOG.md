@@ -117,3 +117,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-24 17:18:38] fix(crypto): optimize cryptographic pairing checks in zk-SNARK verifier
 - [2025-12-24 19:10:37] chore(deploy): pack storage slots in KYC registry to reduce SSTORE cost
 - [2025-12-24 19:28:08] chore(verifier): optimize gas consumption in batch KYC verification registry
+- [2025-12-24 20:25:22] chore(gas): emit structured IdentityVerified event with indexed subject hash

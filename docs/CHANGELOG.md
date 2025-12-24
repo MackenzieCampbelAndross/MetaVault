@@ -119,3 +119,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-24 19:28:08] chore(verifier): optimize gas consumption in batch KYC verification registry
 - [2025-12-24 20:25:22] chore(gas): emit structured IdentityVerified event with indexed subject hash
 - [2025-12-24 20:35:13] chore(compliance): enforce strict EIP-712 typed signature verification
+- [2025-12-24 22:13:55] perf(identity): update security audit findings and mitigation log

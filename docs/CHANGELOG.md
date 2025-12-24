@@ -114,3 +114,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-24 15:10:47] perf(sbt): add reentrancy protection to soulbound credential claim functions
 - [2025-12-24 16:52:21] perf(gas): optimize gas consumption in batch KYC verification registry
 - [2025-12-24 16:59:54] fix(deploy): optimize gas consumption in batch KYC verification registry
+- [2025-12-24 17:18:38] fix(crypto): optimize cryptographic pairing checks in zk-SNARK verifier

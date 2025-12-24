@@ -105,3 +105,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-17 18:24:48] perf(audit): implement access control modifier for authorized identity validators
 - [2025-12-17 19:05:40] perf(zkp): update hardhat deployment scripts for testnet fork compatibility
 - [2025-12-24 10:24:31] perf(zkp): update hardhat deployment scripts for testnet fork compatibility
+- [2025-12-24 11:42:17] perf(sbt): add zero-knowledge proof verification logic for compliance tier

@@ -39,3 +39,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-24 15:46:11**: `docs(gas): pack storage slots in KYC registry to reduce SSTORE cost`
   *Updated specifications and documentation details.*
+- **2025-12-29 10:53:40**: `docs(compliance): add zero-knowledge proof verification logic for compliance tier`
+  *Updated specifications and documentation details.*

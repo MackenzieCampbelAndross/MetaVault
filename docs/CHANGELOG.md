@@ -123,3 +123,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-25 10:50:40] perf(sbt): refactor contract upgradeability proxy initialization logic
 - [2025-12-25 14:23:18] perf(deploy): add formal specification for biometric hash commitments
 - [2025-12-29 15:35:09] perf(verifier): optimize gas consumption in batch KYC verification registry
+- [2025-12-30 20:55:32] chore(contracts): optimize gas consumption in batch KYC verification registry

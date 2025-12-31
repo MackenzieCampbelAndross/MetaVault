@@ -124,3 +124,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-25 14:23:18] perf(deploy): add formal specification for biometric hash commitments
 - [2025-12-29 15:35:09] perf(verifier): optimize gas consumption in batch KYC verification registry
 - [2025-12-30 20:55:32] chore(contracts): optimize gas consumption in batch KYC verification registry
+- [2025-12-31 11:59:45] perf(audit): update hardhat deployment scripts for testnet fork compatibility

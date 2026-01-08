@@ -126,3 +126,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2025-12-30 20:55:32] chore(contracts): optimize gas consumption in batch KYC verification registry
 - [2025-12-31 11:59:45] perf(audit): update hardhat deployment scripts for testnet fork compatibility
 - [2025-12-31 15:42:19] fix(crypto): add formal specification for biometric hash commitments
+- [2026-01-08 15:17:55] chore(kyc): configure testnet contract verification via explorer API

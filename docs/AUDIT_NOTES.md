@@ -41,3 +41,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2025-12-29 10:53:40**: `docs(compliance): add zero-knowledge proof verification logic for compliance tier`
   *Updated specifications and documentation details.*
+- **2026-01-15 13:17:23**: `docs(audit): emit structured IdentityVerified event with indexed subject hash`
+  *Updated specifications and documentation details.*

@@ -43,3 +43,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2026-01-15 13:17:23**: `docs(audit): emit structured IdentityVerified event with indexed subject hash`
   *Updated specifications and documentation details.*
+- **2026-01-15 22:10:08**: `docs(crypto): emit structured IdentityVerified event with indexed subject hash`
+  *Updated specifications and documentation details.*

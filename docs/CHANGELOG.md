@@ -130,3 +130,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2026-01-08 21:42:27] fix(verifier): pack storage slots in KYC registry to reduce SSTORE cost
 - [2026-01-15 10:37:01] chore(zkp): add formal specification for biometric hash commitments
 - [2026-01-15 21:40:58] fix(sbt): add reentrancy protection to soulbound credential claim functions
+- [2026-01-21 11:08:12] perf(sbt): implement revocable soulbound token status checks

@@ -133,3 +133,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2026-01-21 11:08:12] perf(sbt): implement revocable soulbound token status checks
 - **2026-01-21 14:24:16**: `docs(contracts): optimize cryptographic pairing checks in zk-SNARK verifier`
   *Updated specifications and documentation details.*
+- [2026-01-23 11:30:47] chore(crypto): refactor contract upgradeability proxy initialization logic

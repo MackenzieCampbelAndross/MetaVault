@@ -136,3 +136,4 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2026-01-23 11:30:47] chore(crypto): refactor contract upgradeability proxy initialization logic
 - [2026-01-23 21:55:26] fix(kyc): add zero-knowledge proof verification logic for compliance tier
 - [2026-02-05 22:43:44] perf(crypto): update hardhat deployment scripts for testnet fork compatibility
+- [2026-02-06 16:34:49] fix(gas): enforce strict EIP-712 typed signature verification

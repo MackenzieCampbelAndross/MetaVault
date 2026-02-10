@@ -45,3 +45,5 @@ Formal verification, EIP-712 signature security, and proxy storage layouts.
   *Updated specifications and documentation details.*
 - **2026-01-15 22:10:08**: `docs(crypto): emit structured IdentityVerified event with indexed subject hash`
   *Updated specifications and documentation details.*
+- **2026-02-10 16:41:16**: `docs(contracts): optimize gas consumption in batch KYC verification registry`
+  *Updated specifications and documentation details.*

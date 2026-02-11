@@ -139,3 +139,5 @@ Smart contract upgrades, compliance verifiers, and audit mitigation logs.
 - [2026-02-06 16:34:49] fix(gas): enforce strict EIP-712 typed signature verification
 - [2026-02-06 20:10:00] perf(audit): standardize KYC submission API error responses
 - [2026-02-11 15:04:31] chore(gas): enforce strict EIP-712 typed signature verification
+- **2026-02-11 22:38:34**: `docs(gas): refactor contract upgradeability proxy initialization logic`
+  *Updated specifications and documentation details.*

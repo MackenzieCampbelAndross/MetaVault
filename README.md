@@ -1,4 +1,4 @@
-MetaVault
+METAVAULT
 
 Problem
 Retail investors face high friction while accessing regulated financial instruments due to repeated identity verification, complex onboarding, and lack of reusable credentials.

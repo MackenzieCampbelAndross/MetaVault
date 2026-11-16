@@ -1,5 +1,8 @@
 METAVAULT
 
+Deployment
+Deployed application link: https://papaya-taiyaki-97540c.netlify.app/
+
 Problem
 Retail investors face high friction while accessing regulated financial instruments due to repeated identity verification, complex onboarding, and lack of reusable credentials.
 
@@ -19,9 +22,6 @@ Tech Stack
 - Storage: IPFS
 - Authentication: Magic Link
 - Blockchain Network: Testnet
-
-Deployment
-Deployed application link: https://papaya-taiyaki-97540c.netlify.app/
 
 Status
 Prototype | Evaluation Build
